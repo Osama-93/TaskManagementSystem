@@ -1,0 +1,36 @@
+<app-navbar></app-navbar>
+<div class="container mt-5">
+  <div class="row">
+    <div class="col-md-6 mt-4">
+      <div class="card p4">
+        <div class="container">
+          <h2>
+            Admin Dashboard
+          </h2>
+          <hr>
+          <h4>Create User</h4>
+          <input type="text" class="form-control mb-2" placeholder="Username" [(ngModel)]="username">
+          <input type="password" class="form-control mb-2" placeholder="Password" [(ngModel)]="password">
+          <select class="form-control mb-3" [(ngModel)]="role">
+            <option value="User">User</option>
+            <option value="Admin">Admin</option>
+          </select>
+
+          <button class="btn btn-outline-success" *ngIf="!editingUserId" (click)="createUser()">Create User</button>
+          <button class="btn btn-primary" *ngIf="editingUserId" (click)="saveUser()">Save User</button>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6 mt-">
+      <h4>Users</h4>
+      <div class="border p-3 mb-2" *ngFor="let user of users">
+        <strong>
+          {{ user.name }}
+        </strong>
+        - {{ user.role == 2 ? 'Admin' : 'User' }}
+        <br>
+        <button class="btn btn-warning mt-2" (click)="editUser(user)">Edit</button>
+      </div>
+    </div>
+  </div>
+</div>
