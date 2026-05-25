@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TaskManagementSystem.Infrastructure/1.0.0": {
+        "dependencies": {
+          "TaskManagementSystem.Application": "1.0.0",
+          "TaskManagementSystem.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TaskManagementSystem.Infrastructure.dll": {}
+        }
+      },
+      "TaskManagementSystem.Application/1.0.0": {
+        "dependencies": {
+          "TaskManagementSystem.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TaskManagementSystem.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TaskManagementSystem.Domain/1.0.0": {
+        "runtime": {
+          "TaskManagementSystem.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskManagementSystem.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaskManagementSystem.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaskManagementSystem.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

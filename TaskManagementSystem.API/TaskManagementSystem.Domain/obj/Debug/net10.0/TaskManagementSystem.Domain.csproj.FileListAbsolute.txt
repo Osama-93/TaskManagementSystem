@@ -1,0 +1,11 @@
+D:\Projects\TaskManagementSystem\TaskManagementSystem.API\TaskManagementSystem.Domain\bin\Debug\net10.0\TaskManagementSystem.Domain.deps.json
+D:\Projects\TaskManagementSystem\TaskManagementSystem.API\TaskManagementSystem.Domain\bin\Debug\net10.0\TaskManagementSystem.Domain.dll
+D:\Projects\TaskManagementSystem\TaskManagementSystem.API\TaskManagementSystem.Domain\bin\Debug\net10.0\TaskManagementSystem.Domain.pdb
+D:\Projects\TaskManagementSystem\TaskManagementSystem.API\TaskManagementSystem.Domain\obj\Debug\net10.0\TaskManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TaskManagementSystem\TaskManagementSystem.API\TaskManagementSystem.Domain\obj\Debug\net10.0\TaskManagementSystem.Domain.AssemblyInfoInputs.cache
+D:\Projects\TaskManagementSystem\TaskManagementSystem.API\TaskManagementSystem.Domain\obj\Debug\net10.0\TaskManagementSystem.Domain.AssemblyInfo.cs
+D:\Projects\TaskManagementSystem\TaskManagementSystem.API\TaskManagementSystem.Domain\obj\Debug\net10.0\TaskManagementSystem.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\TaskManagementSystem\TaskManagementSystem.API\TaskManagementSystem.Domain\obj\Debug\net10.0\TaskManagementSystem.Domain.dll
+D:\Projects\TaskManagementSystem\TaskManagementSystem.API\TaskManagementSystem.Domain\obj\Debug\net10.0\refint\TaskManagementSystem.Domain.dll
+D:\Projects\TaskManagementSystem\TaskManagementSystem.API\TaskManagementSystem.Domain\obj\Debug\net10.0\TaskManagementSystem.Domain.pdb
+D:\Projects\TaskManagementSystem\TaskManagementSystem.API\TaskManagementSystem.Domain\obj\Debug\net10.0\ref\TaskManagementSystem.Domain.dll
